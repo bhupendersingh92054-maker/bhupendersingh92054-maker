@@ -82,13 +82,6 @@ https://bhupenderportfolioo.netlify.app/
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
-
----
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhupendersingh92054-maker&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 ---
 ## 🐍 Contribution Snake
 

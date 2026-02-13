@@ -61,15 +61,15 @@ I love turning simple ideas into premium animated web experiences ✨
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhupendersingh92054-maker&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupendersingh92054-maker&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupendersingh92054-maker&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -86,13 +86,13 @@ I love turning simple ideas into premium animated web experiences ✨
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhupendersingh92054-maker&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 ---
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/bhupendersingh92054-maker/bhupendersingh92054-maker/output/github-contribution-grid-snake.svg" />
 </p>
 ---
 

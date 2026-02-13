@@ -106,7 +106,7 @@ I love turning simple ideas into premium animated web experiences ✨
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhupendersingh92054-maker/bhupendersingh92054-maker/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/bhupendersingh92054-maker/bhupendersingh92054-maker/blob/output/snake.svg?raw=true" />
 </p>
 ---
 

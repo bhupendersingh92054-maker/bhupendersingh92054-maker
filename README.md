@@ -65,7 +65,7 @@ https://bhupenderportfolioo.netlify.app/
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhupendersingh92054-maker&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhupendersingh92054-maker&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ https://bhupenderportfolioo.netlify.app/
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupendersingh92054-maker&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhupendersingh92054-maker&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -94,7 +94,7 @@ https://bhupenderportfolioo.netlify.app/
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhupendersingh92054-maker&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhupendersingh92054-maker&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 ---
 ## 👀 Profile Views

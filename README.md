@@ -77,11 +77,23 @@ I love turning simple ideas into premium animated web experiences ✨
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN" target="blank](https://www.linkedin.com/in/bhupender-singh-1390b73aa/)">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
 </p>
 
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 ---
 
 ⭐️ From Bhupender Singh

@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Frontend+Animation+Lover;Always+Learning+New+Things" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhupendersingh92054-maker&style=for-the-badge&color=blue" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -76,9 +80,13 @@ I love turning simple ideas into premium animated web experiences ✨
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN" target="blank](https://www.linkedin.com/in/bhupender-singh-1390b73aa/)">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhupender-singh-1390b73aa/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:bhupendersingh92054@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
 
@@ -87,6 +95,12 @@ I love turning simple ideas into premium animated web experiences ✨
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bhupendersingh92054-maker&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+---
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhupendersingh92054-maker&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 ---
 ## 🐍 Contribution Snake

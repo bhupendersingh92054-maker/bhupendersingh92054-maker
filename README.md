@@ -58,22 +58,22 @@ I love turning simple ideas into premium animated web experiences ✨
 🔹 **Login & Register System** – Authentication Based  
 🔹 **Weather App** – API Integrated Project  
 
-(Portfolio link yaha add karo jab deploy ho jaye 🚀)
+https://bhupenderportfolioo.netlify.app/
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhupendersingh92054-maker&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhupendersingh92054-maker&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupendersingh92054-maker&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=bhupendersingh92054-maker&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupendersingh92054-maker&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupendersingh92054-maker&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -94,7 +94,7 @@ I love turning simple ideas into premium animated web experiences ✨
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhupendersingh92054-maker&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhupendersingh92054-maker&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 ---
 ## 👀 Profile Views

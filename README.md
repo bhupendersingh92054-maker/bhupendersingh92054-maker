@@ -83,8 +83,6 @@ https://bhupenderportfolioo.netlify.app/
   </a>
 </p>
 ---
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://github.com/bhupendersingh92054-maker/bhupendersingh92054-maker/blob/output/snake.svg?raw=true" />
 </p>

@@ -54,7 +54,8 @@ I love turning simple ideas into premium animated web experiences ✨
 
 ## 📂 Featured Projects
 
-🔹 **YouTube Clone** – React + Tailwind UI  
+🔹 **Neet Vision** – React.js, Node.js, Express.js, MongoDB, JWT Authentication, REST APIs
+🔹 **YouTube Clone** – React + Tailwind UI 
 🔹 **Login & Register System** – Authentication Based  
 🔹 **Weather App** – API Integrated Project  
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhupender Singh</h1>
+<!-- <h1 align="center">Hi 👋, I'm Bhupender Singh</h1>
 <h3 align="center">🚀 Aspiring MERN Stack Developer | Frontend Focused</h3>
 
 <p align="center">
@@ -92,4 +92,4 @@ https://bhupenderportfolioo.netlify.app/
 </p>
 ---
 
-⭐️ From Bhupender Singh
+⭐️ From Bhupender Singh -->

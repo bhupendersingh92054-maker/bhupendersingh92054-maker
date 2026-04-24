@@ -1,8 +1,8 @@
-<!-- <h1 align="center">Hi 👋, I'm Bhupender Singh</h1>
-<h3 align="center">🚀 Aspiring MERN Stack Developer | Frontend Focused</h3>
+<h1 align="center">Hi 👋, I'm Bhupender Singh</h1>
+<h3 align="center">🚀 MERN Stack Developer | Frontend Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Frontend+Animation+Lover;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Frontend+Animation+Lover;Building+Modern+Web+Apps" />
 </p>
 
 <p align="center">
@@ -13,23 +13,11 @@
 
 ## 👨‍💻 About Me
 
-🔭 I’m currently working on:  
-Building modern and responsive Full Stack (MERN) projects  
-
-🤝 I’m looking to collaborate on:  
-Open-source projects and creative web applications  
-
-🆘 I’m looking for help with:  
-Advanced backend architecture & system design  
-
-🌱 I’m currently learning:  
-Backend optimization, authentication systems & DSA  
-
-💬 Ask me about:  
-React, Tailwind CSS, Responsive UI & Framer Motion  
-
-⚡ Fun fact:  
-I love turning simple ideas into premium animated web experiences ✨  
+- 🔭 Building modern **Full Stack MERN Applications**
+- 🌱 Learning **Backend Optimization, Authentication & System Design**
+- 💬 Ask me about **React, Tailwind, Animations & UI/UX**
+- 🤝 Open to **collaborations & open-source**
+- ⚡ Passionate about **clean UI & smooth user experience**
 
 ---
 
@@ -54,24 +42,29 @@ I love turning simple ideas into premium animated web experiences ✨
 
 ## 📂 Featured Projects
 
-🔹 **Neet Vision** – React.js, Node.js, Express.js, MongoDB, JWT Authentication, REST APIs
+🔹 **Neet Vision**  
+Full Stack App (MERN) with JWT Auth & REST APIs  
 
-🔹 **YouTube Clone** – React + Tailwind UI 
+🔹 **YouTube Clone**  
+Responsive UI using React + Tailwind  
 
-🔹 **Login & Register System** – Authentication Based  
+🔹 **Auth System**  
+Login/Register with secure authentication  
 
-🔹 **Weather App** – API Integrated Project  
+🔹 **Weather App**  
+API-based real-time weather app  
 
-https://bhupenderportfolioo.netlify.app/
+🌐 **Portfolio:**  
+👉 https://bhupenderportfolioo.netlify.app/
 
 ---
 
-## 📈 Developer Snapshot
+## 📈 Growth Focus
 
-- 💻 Building Full Stack MERN Projects  
-- ⚡ Focused on Clean UI & Smooth Animations  
-- 🔐 Exploring Authentication & Backend Optimization  
-- 📚 Improving DSA & Problem Solving  
+- 💻 Full Stack Development  
+- 🔐 Authentication Systems  
+- ⚡ Performance Optimization  
+- 📚 Data Structures & Algorithms  
 
 ---
 
@@ -86,10 +79,13 @@ https://bhupenderportfolioo.netlify.app/
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
+
 ---
+
 <p align="center">
   <img src="https://github.com/bhupendersingh92054-maker/bhupendersingh92054-maker/blob/output/snake.svg?raw=true" />
 </p>
+
 ---
 
-⭐️ From Bhupender Singh -->
+⭐️ From Bhupender Singh
